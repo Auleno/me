@@ -1,0 +1,23 @@
+<svg version="1.1"
+     width="300" height="300"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <rect x="85" y="-10"width="130"
+height="175"
+transform="skewY(20)" fill=#f54242 />
+
+  <circle cx="150" cy="125" r="80" transform="skewY(10)" fill=#d0e8ed />
+<path d='M0,0 C50,40 50,70 20,100 L0,85 L-20,100 C-50,70 -50,40 0,0'
+    fill=#e3b7b7 stroke='#000' stroke-width=1 transform="scale(0.25) translate(560,159) skewY(19) skewX(-35)" />
+
+  <text font-family="Swing King" x="150" y="145" font-size="90" text-anchor="middle" fill="orange">AL</text>
+  <path d='M0,0 C50,40 50,70 20,100 L0,85 L-20,100 C-50,70 -50,40 0,0'
+    fill=#e3b7b7 stroke='#000' stroke-width=1 transform="scale(0.25) translate(420,345) skewY(15) skewX(-45)" />
+<path d='M0,0 C50,40 50,70 20,100 L0,85 L-20,100 C-50,70 -50,40 0,0'
+    fill=#e3b7b7 stroke='#000' stroke-width=1 transform="scale(0.25) translate(426,751) skewY(25) skewX(-37)" />
+<path d='M0,0 C50,40 50,70 20,100 L0,85 L-20,100 C-50,70 -50,40 0,0'
+    fill=#e3b7b7 stroke='#000' stroke-width=1 transform="scale(0.25) translate(275,751) skewY(10) skewX(-41)" />
+
+</svg>
+
+</svg>
