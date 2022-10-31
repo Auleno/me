@@ -1,0 +1,50 @@
+
+@font-face{
+	font-family: "Swing-King";
+}
+p
+{
+	font-family: "Arial";
+	color: brown;
+	font-size:30px;
+}						//font face
+
+h1
+{
+	text-align: center;
+}
+.return
+{
+	font-weight: bold;
+}
+						//lists css here
+
+img						//need more images
+{
+	float: right;
+	border-radius: 20px;
+	height: 800px;
+	width: 1080px;
+}
+.assignmentlink
+{
+	font-weight: italic;
+}
+a:link					//links
+{
+	color: blue;
+}
+a:visited
+{
+	color: red;
+}
+
+a:hover
+{
+	color: orange;
+}
+
+a:active
+{
+	color:yellow;
+}
