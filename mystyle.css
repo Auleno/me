@@ -1,7 +1,9 @@
 
-#grad {
-  background-image: linear-gradient(to right, #6CDCE6 , #553EE6);
+html{
+  background-color: #553EE6;
+
 }
+
 
 body{
 	margin-left: 20px;
@@ -16,29 +18,33 @@ h1{
 	color: #E6B556;
 
 }
+.tiny{
+  max-width: 300px;
+  width: 300px;
+}
 p
 {
-
+  text-align:left;
 	border-style: ridge;
 	border-radius: 5px;
 	border-color: #E6B556;
+  background-color: #6CDCE6
 	padding-left: 10px;
-
-
-	color: brown;
-	font-size:30px;
+	color: #E6D460;
+	font-size:20px;
 }						//font face
-
 a.return {
 	font-weight: bold;
 }
 						//lists css here
-ul {
-	background:#553EE6;
-	color: #E68A49;
+ul{
+  margin: 10px;
+  padding-left: 10px
 }
 li{
-	color: black;
+  background-color: :#553EE6;
+	color: #E68A49;
+  list-style-image: url(images/1x/listmarker.png);
 }
 
 img						//need more image
