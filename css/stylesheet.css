@@ -1,0 +1,234 @@
+@font-face {
+    font-family: 'Servus Slab Extra';
+    src: url('ServusSlab-ExtraBoldItalic.eot');
+    src: local('Servus Slab Extra Bold Italic'), local('ServusSlab-ExtraBoldItalic'),
+        url('ServusSlab-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('ServusSlab-ExtraBoldItalic.woff2') format('woff2'),
+        url('ServusSlab-ExtraBoldItalic.woff') format('woff'),
+        url('ServusSlab-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Servus Slab';
+    src: url('ServusSlab-Bold.eot');
+    src: local('Servus Slab Bold'), local('ServusSlab-Bold'),
+        url('ServusSlab-Bold.eot?#iefix') format('embedded-opentype'),
+        url('ServusSlab-Bold.woff2') format('woff2'),
+        url('ServusSlab-Bold.woff') format('woff'),
+        url('ServusSlab-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Servus Slab';
+    src: url('ServusSlab-Black.eot');
+    src: local('Servus Slab Black'), local('ServusSlab-Black'),
+        url('ServusSlab-Black.eot?#iefix') format('embedded-opentype'),
+        url('ServusSlab-Black.woff2') format('woff2'),
+        url('ServusSlab-Black.woff') format('woff'),
+        url('ServusSlab-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Servus Slab Extra';
+    src: url('ServusSlab-ExtraBold.eot');
+    src: local('Servus Slab Extra Bold'), local('ServusSlab-ExtraBold'),
+        url('ServusSlab-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('ServusSlab-ExtraBold.woff2') format('woff2'),
+        url('ServusSlab-ExtraBold.woff') format('woff'),
+        url('ServusSlab-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Servus Slab Extra';
+    src: url('ServusSlab-ExtraLight.eot');
+    src: local('Servus Slab Extra Light'), local('ServusSlab-ExtraLight'),
+        url('ServusSlab-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('ServusSlab-ExtraLight.woff2') format('woff2'),
+        url('ServusSlab-ExtraLight.woff') format('woff'),
+        url('ServusSlab-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Servus Slab';
+    src: url('ServusSlab-BlackItalic.eot');
+    src: local('Servus Slab Black Italic'), local('ServusSlab-BlackItalic'),
+        url('ServusSlab-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('ServusSlab-BlackItalic.woff2') format('woff2'),
+        url('ServusSlab-BlackItalic.woff') format('woff'),
+        url('ServusSlab-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Servus Slab';
+    src: url('ServusSlab-BoldItalic.eot');
+    src: local('Servus Slab Bold Italic'), local('ServusSlab-BoldItalic'),
+        url('ServusSlab-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('ServusSlab-BoldItalic.woff2') format('woff2'),
+        url('ServusSlab-BoldItalic.woff') format('woff'),
+        url('ServusSlab-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Servus Slab Extra';
+    src: url('ServusSlab-ExtraLightItalic.eot');
+    src: local('Servus Slab Extra Light Italic'), local('ServusSlab-ExtraLightItalic'),
+        url('ServusSlab-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('ServusSlab-ExtraLightItalic.woff2') format('woff2'),
+        url('ServusSlab-ExtraLightItalic.woff') format('woff'),
+        url('ServusSlab-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Servus Slab';
+    src: url('ServusSlab-Medium.eot');
+    src: local('Servus Slab Medium'), local('ServusSlab-Medium'),
+        url('ServusSlab-Medium.eot?#iefix') format('embedded-opentype'),
+        url('ServusSlab-Medium.woff2') format('woff2'),
+        url('ServusSlab-Medium.woff') format('woff'),
+        url('ServusSlab-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Servus Slab';
+    src: url('ServusSlab-ThinItalic.eot');
+    src: local('Servus Slab Thin Italic'), local('ServusSlab-ThinItalic'),
+        url('ServusSlab-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('ServusSlab-ThinItalic.woff2') format('woff2'),
+        url('ServusSlab-ThinItalic.woff') format('woff'),
+        url('ServusSlab-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Servus Slab';
+    src: url('ServusSlab-Light.eot');
+    src: local('Servus Slab Light'), local('ServusSlab-Light'),
+        url('ServusSlab-Light.eot?#iefix') format('embedded-opentype'),
+        url('ServusSlab-Light.woff2') format('woff2'),
+        url('ServusSlab-Light.woff') format('woff'),
+        url('ServusSlab-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Servus Slab Semi';
+    src: url('ServusSlab-SemiBold.eot');
+    src: local('Servus Slab Semi Bold'), local('ServusSlab-SemiBold'),
+        url('ServusSlab-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('ServusSlab-SemiBold.woff2') format('woff2'),
+        url('ServusSlab-SemiBold.woff') format('woff'),
+        url('ServusSlab-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Servus Slab';
+    src: url('ServusSlab-MediumItalic.eot');
+    src: local('Servus Slab Medium Italic'), local('ServusSlab-MediumItalic'),
+        url('ServusSlab-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('ServusSlab-MediumItalic.woff2') format('woff2'),
+        url('ServusSlab-MediumItalic.woff') format('woff'),
+        url('ServusSlab-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Servus Slab';
+    src: url('ServusSlab-RegularItalic.eot');
+    src: local('Servus Slab Italic'), local('ServusSlab-RegularItalic'),
+        url('ServusSlab-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('ServusSlab-RegularItalic.woff2') format('woff2'),
+        url('ServusSlab-RegularItalic.woff') format('woff'),
+        url('ServusSlab-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Servus Slab';
+    src: url('ServusSlab-Thin.eot');
+    src: local('Servus Slab Thin'), local('ServusSlab-Thin'),
+        url('ServusSlab-Thin.eot?#iefix') format('embedded-opentype'),
+        url('ServusSlab-Thin.woff2') format('woff2'),
+        url('ServusSlab-Thin.woff') format('woff'),
+        url('ServusSlab-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Servus Slab';
+    src: url('ServusSlab-LightItalic.eot');
+    src: local('Servus Slab Light Italic'), local('ServusSlab-LightItalic'),
+        url('ServusSlab-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('ServusSlab-LightItalic.woff2') format('woff2'),
+        url('ServusSlab-LightItalic.woff') format('woff'),
+        url('ServusSlab-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Servus Slab';
+    src: url('ServusSlab-Regular.eot');
+    src: local('Servus Slab'), local('ServusSlab-Regular'),
+        url('ServusSlab-Regular.eot?#iefix') format('embedded-opentype'),
+        url('ServusSlab-Regular.woff2') format('woff2'),
+        url('ServusSlab-Regular.woff') format('woff'),
+        url('ServusSlab-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Servus Slab Semi';
+    src: url('ServusSlab-SemiBoldItalic.eot');
+    src: local('Servus Slab Semi Bold Italic'), local('ServusSlab-SemiBoldItalic'),
+        url('ServusSlab-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('ServusSlab-SemiBoldItalic.woff2') format('woff2'),
+        url('ServusSlab-SemiBoldItalic.woff') format('woff'),
+        url('ServusSlab-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+

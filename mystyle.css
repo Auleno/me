@@ -1,34 +1,56 @@
 
-@font-face{
-	font-family: "Swing-King";
+#grad {
+  background-image: linear-gradient(to right, #6CDCE6 , #553EE6);
+}
+
+body{
+	margin-left: 20px;
+	margin-right: 25px;
+	margin-top: 10px;
+	font-family: "Verdana", "Monaco";
+
+}
+h1{
+	font-size: 50px;
+	text-align: center;
+	color: #E6B556;
+
 }
 p
 {
-	font-family: "Arial";
+
+	border-style: ridge;
+	border-radius: 5px;
+	border-color: #E6B556;
+	padding-left: 10px;
+
+
 	color: brown;
 	font-size:30px;
 }						//font face
 
-h1
-{
-	text-align: center;
-}
-.return
-{
+a.return {
 	font-weight: bold;
 }
 						//lists css here
+ul {
+	background:#553EE6;
+	color: #E68A49;
+}
+li{
+	color: black;
+}
 
-img						//need more images
+img						//need more image
 {
 	float: right;
-	border-radius: 20px;
-	height: 800px;
-	width: 1080px;
+	border-radius: 10px;
+
 }
-.assignmentlink
-{
-	font-weight: italic;
+
+
+a.assignmentlink{
+	font-style: italic;
 }
 a:link					//links
 {
