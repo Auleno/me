@@ -1,4 +1,13 @@
-
+@font-face {
+  font-family: "swing-king";
+  src: local("swing-king"),
+     url("css/SwingKing.otf") format("opentype");
+}
+@font-face {
+  font-family: "Luminari";
+  src: local("Luminari"),
+     url("css/Luminari-Regular.ttf") format("truetype");
+}
 html{
   background-color: #553EE6;
 
@@ -9,7 +18,7 @@ body{
 	margin-left: 20px;
 	margin-right: 25px;
 	margin-top: 10px;
-	font-family: "Verdana", "Monaco";
+	font-family: "swing-king", "Monaco";
 
 }
 h1{
@@ -39,12 +48,17 @@ a.return {
 						//lists css here
 ul{
   margin: 10px;
-  padding-left: 10px
+  padding-left: 10px;
+  font-family: "swing-king";
+  font-size: 15px;
+  color:#6DCCE6;
+  background-color: :#553EE6;
 }
 li{
   background-color: :#553EE6;
-	color: #E68A49;
+	color: #6CDCE6;
   list-style-image: url(images/1x/listmarker.png);
+    font-family: "Luminari";
 }
 
 img						//need more image
