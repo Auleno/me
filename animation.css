@@ -1,0 +1,28 @@
+li.nav-item:hover{
+  animation-name: lightup;
+  animation-duration:1s;
+}
+@keyframes lightup {
+    50%{background-color:  #E6D460;}
+}
+html{
+  animation-name:colorchange;
+  animation-duration:10s;
+  animation-iteration-count: infinite;
+}
+@keyframes colorchange {
+  20%{background-color:#E6D460;}
+  40%{background-color:#E6B556;}
+  60%{background-color:#E68A49;}
+  80%{background-color:#6CDCE6;}
+  90%{background-color:#E68A49;}
+}
+#me:active{
+  animation-name: shrink;
+  animation-duration: 3s;
+}
+@keyframes shrink{
+  33%{width:75%;height:75%;}
+  66%{width:50%;height:50%;}
+  100%{width:20%;height:20%;}
+}
