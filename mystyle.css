@@ -12,6 +12,12 @@ html{
   background-color: #553EE6;
 
 }
+div.intro{
+  margin-top:90px;
+}
+div.logo{
+  margin-top: 90px;
+}
 .nav-link{
   color:white;
 }
@@ -38,9 +44,15 @@ h1{
   padding-left:30px;
   padding-right:30px;
   margin-top: 15px;
+
+}
+.navbar-inverse{
+  background-color:black;
 }
 .nav-link{
   text:white;
+  background-color: black;
+
 }
 .center{
   text-align: center;
@@ -93,7 +105,6 @@ img						//need more image
 	border-radius: 10px;
 
 }
-
 
 a.assignmentlink{
 	font-style: italic;
