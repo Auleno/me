@@ -33,6 +33,10 @@
 body  {
   color:#6CDCE6;
 }
+@media (min-width: 600px){
+       padding: 20px;
+   }
+  
 
 .gacon{
   width:50px;
