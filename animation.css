@@ -26,3 +26,27 @@ html{
   66%{width:50%;height:50%;}
   100%{width:20%;height:20%;}
 }
+
+@keyframes textcolorchange {
+  20%{color:#E6D460;}
+  40%{color:#E6B556;}
+  60%{color:#E68A49;}
+  80%{color:#6CDCE6;}
+  90%{color:#E68A49;}
+}
+@keyframes grimred {
+  20%{color:#00000;}
+  40%{color:#FF0000;}
+  60%{color:#FF6800;}
+  80%{color:#FD3300;}
+  90%{color:#00000;}
+}
+@keyframes wild {
+  10%{color:#00000;}
+  20%{color:#00FFFF;}
+  30%{color:#FF0000;}
+  40%{color:#00FF00;}
+  60%{color:#0000FF;}
+  80%{color:#FFFF00;}
+  90%{color:#00000;}
+}
