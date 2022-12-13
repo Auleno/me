@@ -3,17 +3,17 @@ let d = new Date();
 console.log(d.getDay());
 
 if(d.getDay() == 0){
-  document.getElementById('fun').style.color = ""#87CEEB";
-  document.getElementById('fun2').style.color = ""#87CEEB";
-  document.getElementById('fun3').style.color = ""#87CEEB";
-  document.getElementById('fun4').style.color = ""#87CEEB";
-  document.getElementById('fun5').style.color = ""#87CEEB";
-  document.getElementById('cardtitle').style.color = ""#87CEEB";
-  document.getElementById('descript').style.color = ""#87CEEB";
+  document.getElementById('fun').style.color = "#87CEEB";
+  document.getElementById('fun2').style.color = "#87CEEB";
+  document.getElementById('fun3').style.color = "#87CEEB";
+  document.getElementById('fun4').style.color = "#87CEEB";
+  document.getElementById('fun5').style.color = "#87CEEB";
+  document.getElementById('cardtitle').style.color = "#87CEEB";
+  document.getElementById('descript').style.color = "#87CEEB";
 }
 
 if(d.getDay() == 1){
-  document.getElementById("me").style.opacity:0.65;
+  document.getElementById("me").style.opacity = "0.65";
 }
 if (d.getDay() == 2 ){
   document.getElementById("fun").style.color = "#32CD32";
@@ -50,7 +50,7 @@ if (d.getDay() == 2 ){
    }
 
    if (d.getDay() == 5 ){
-    document.getElementById("h1").style.text-shadow = #FF8600 1px 0 10px;
+    document.getElementById("h1").style.textShadow = "#FF8600 1px 0 10px";
      document.getElementById("fun").style.animation= wild;
      document.getElementById("fun2").style.animation= wild;
      document.getElementById("fun3").style.animation= wild;
